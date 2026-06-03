@@ -137,6 +137,7 @@ A curated list of awesome tools, platforms, products, and resources for Managed 
 - [Hudu](https://www.usehudu.com/) - IT documentation and password management platform.
 - [IT Glue](https://www.itglue.com/) - documentation platform that allows for efficient storage and retrieval of all the documentation you need.
 - [Passportal](https://www.solarwindsmsp.com/products/passportal) - Cloud-based, privileged access system combining both password and documentation management.
+- [Weavestream](https://weavestream.io/) - Open-source, self-hosted IT documentation and asset management platform featuring flexible relationship mapping, credentials storage, and full data sovereignty.
 
 ## Network Monitoring
 - [Auvik](https://www.auvik.com/) - Cloud-based network management software.
